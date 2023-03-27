@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m learning machine learning.
 
